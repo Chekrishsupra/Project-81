@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: red;
+}
+#canvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+   }
+   
